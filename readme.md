@@ -5,7 +5,12 @@ This is a music app that allows users to search for songs, view song's details a
 
 The application also provides authentication and authorization features using Firebase Authentication and JSON Web Tokens.
 
-postman collection link-https://www.postman.com/descent-module-architect-13586242/workspace/spotify-like-backend/collection/19587055-62db2e9f-a570-415c-84b7-de17c194a4b9?action=share&creator=19587055
+postman collection link-https://lunar-zodiac-669852.postman.co/workspace/My-Workspace~df286ff7-a049-470a-8782-6fdba772903a/collection/26810555-6de42248-00a4-4b01-9ba6-73789b945311
+
+## [Live Link](https://spotify-clone-56.netlify.app/)
+## Image 
+![image](https://github.com/dpvasani/Spotify-Backend/assets/109815626/e0f52e85-da69-49f0-bb57-81f8e869014c)
+
 
 **Api documentation with examples** https://documenter.getpostman.com/view/19587055/2s8ZDSdQyU
 
